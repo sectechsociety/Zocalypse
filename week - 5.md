@@ -1,4 +1,4 @@
-## Week 4 – AI Perception & Behavior Tree Integration
+## Week 5 – AI Perception & Behavior Tree Integration
 
 **1. Objective**
 
